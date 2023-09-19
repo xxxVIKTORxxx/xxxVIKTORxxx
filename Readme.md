@@ -15,3 +15,4 @@ Eager to join a supportive team and continuously learn new techniques while coll
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVIKTORxxx&layout=compact)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xxxVIKTORxxx)]
