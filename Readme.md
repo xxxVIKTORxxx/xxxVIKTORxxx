@@ -9,5 +9,7 @@ Motivated to secure impactful AI/ML role where I can contribute analytics, progr
 Equipped with academic interests in psychology, philosophy, and history that provide distinctive lenses on developing interpretable, ethical AI systems. <br>
 Eager to join a supportive team and continuously learn new techniques while collaborating to create solutions that benefit people. <br>
 
-<align="right">-- Claude-2's summary
+<p align="right">
+-- Claude-2's summary
+</p>
 
