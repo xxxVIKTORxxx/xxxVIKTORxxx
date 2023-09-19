@@ -13,4 +13,4 @@ Eager to join a supportive team and continuously learn new techniques while coll
 <i>-- Claude-2's summary</i>
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxVIKTORxxx&layout=compact)
