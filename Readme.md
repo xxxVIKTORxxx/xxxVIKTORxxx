@@ -14,4 +14,4 @@ Equipped with academic interests in psychology, philosophy, and history that pro
 
 Eager to join a supportive team and continuously learn new techniques while collaborating to create solutions that benefit people.
 
--- Claude-2's summary
+<p style="text-align:center;">-- Claude-2's summary</p>
