@@ -2,7 +2,7 @@ Hi there    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-ivanenko-b8504ba5/)
 [![DataCamp Badge](https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png =5x20)](https://www.datacamp.com/portfolio/victorivanenko)
-<img data-canonical-src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png" width="20" height="10" />
+<img data-canonical-src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png" width="50" height="20" />
 
 Multidisciplinary data science professional seeking mutually beneficial opportunity to relocate to the US for AI/ML engineering roles. <br>
 Currently upskilling towards AI through online courses and freelance projects. Passionate about leveraging diverse perspectives to advance machine learning systems. Completed extensive ML coursework and gained hands-on experience through freelance work. <br>
